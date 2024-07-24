@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TokenBot.props" />
+</Project>

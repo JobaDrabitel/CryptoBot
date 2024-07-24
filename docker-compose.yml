@@ -1,0 +1,7 @@
+﻿services:
+  tokenbot:
+    image: tokenbot
+    build:
+      context: .
+      dockerfile: TokenBot/Dockerfile
+    env_file: .env

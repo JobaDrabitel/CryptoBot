@@ -1,0 +1,6 @@
+@TokenBot_HostAddress = http://localhost:5073
+
+GET {{TokenBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

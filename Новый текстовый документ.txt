@@ -1,0 +1,4 @@
+BotSettings__token="7161583375:AAEtupAeTLbcJCBeKkOi7BnQ5cBJBk977VE"
+BotSettings__chatId="5181834700"
+TokenSettings__url="https://frontend-api.pump.fun/coins/latest"
+RedisSettings__ConnectionString="redis-container:6379,abortConnect=false"
